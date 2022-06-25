@@ -8,3 +8,12 @@ main {
     color: #11748e;
     text-align: center;
 }
+
+.departure {
+    color: #11748e;
+}
+
+div,
+footer {
+    text-align: center;
+}
